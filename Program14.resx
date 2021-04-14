@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txtPrices.Text" xml:space="preserve">
+    <value>29.969999	
+29.620001	
+30.049999	
+29.809999	
+29.540001	
+29.049999	
+29.209999	
+29.34	
+29.049999	
+29.08	
+28.889999	
+29.25	
+29.49	
+29.440001	
+29.17	
+29.790001	
+30.030001	
+30.540001	
+30.959999	
+31.17	
+30.91	
+30.42	
+29.969999	
+30	
+30.040001	
+30.190001	
+30.209999	
+29.84	
+30.549999	
+30.299999	
+30.389999	
+30.969999	
+30.700001	
+31.68	
+32.029999	
+32.130001	
+32.43	
+32.5	
+32.630001	
+32.549999	
+32.029999	
+32.049999	
+32.299999	
+31.52	
+31.639999	
+32.540001	
+33.049999	
+33.220001	
+32.779999	
+32.689999	
+32.82	
+33.23	
+34.189999	
+34.220001	
+34.09	
+34.02	
+33.889999	
+33.189999	
+32.779999	
+33.419998	
+33.630001	
+33.220001	
+32.48	
+33.07	
+33.959999	
+33.389999	
+38.41	
+37.029999	
+35.959999	
+35.650002	
+36.790001	
+37.16	
+36.91	
+38.060001	
+38.77	
+39.049999	
+38.310001	
+35.889999	
+35.209999	
+34.630001	
+33.009998	
+33.200001	
+35.82	
+34.93	
+36	
+34.970001	
+33.459999	
+32.459999	
+34.310001	
+31.299999	
+26.780001	
+29.290001	
+24.040001	
+24.48	
+22	
+24.129999	
+23.950001	
+24.690001	
+25.85	
+25.969999	
+26.41	
+25.290001	
+25.59	
+24.559999	
+23.32	
+23.02	
+23.09	
+24.93	
+25.610001	
+27.860001	
+27.77	
+27.209999	
+27.940001	
+27.51	
+26.549999	
+26.700001	
+27.01	
+25.75	
+28.440001	
+27.860001	
+28.74	
+30	
+28.790001	
+31.09	
+28.68	
+27.84	
+28.23	
+28.07	
+27.68	
+28.77	
+29.93	
+29.690001	
+29.15	
+28.129999	
+28.559999	
+29	
+29.639999	
+29.879999	
+32.23	
+32.34	
+32.619999	
+34.009998	
+33.07	
+31.6	
+30.969999	
+31.889999	
+32.259998	
+34.880001	
+33.720001	
+34.869999	
+36.639999	
+35.919998	
+35.139999	
+33.029999	
+33.400002	
+34.110001	
+34.630001	
+34.34	
+34.029999	
+33.41	
+33.470001	
+32.91	
+31.73	
+31.370001	
+29.049999	
+29.49	
+29.790001	
+30.809999	
+30.870001	
+32.34	
+32.990002	
+35.41	
+35.720001	
+35.400002	
+33.82	
+34.380001	
+35.669998	
+35.279999	
+35.810001	
+37.060001	
+37.009998	
+36.939999	
+38.439999	
+37.540001	
+36.849998	
+36.610001	
+37.16	
+36.720001	
+36.400002	
+36.389999	
+36.349998	
+36.790001	
+37.689999	
+37.139999	
+37.439999	
+37.279999	
+37.439999	
+37.82	
+37.900002	
+37.970001	
+38.009998	
+38.889999	
+38.959999	
+39.259998	
+40.490002	
+40.549999	
+41.080002	
+40.389999	
+41.07	
+40.580002	
+41.150002	
+43.669998	
+41.630001	
+39.869999	
+38.189999	
+39.560001	
+38.950001	
+38.93	
+38.77	
+39.09	
+39.599998	
+39.349998	
+40.150002	
+39.900002	
+42.73	
+45.330002	
+43.139999	
+43.84	
+44.150002	
+44.740002	
+44.5	
+46.700001	
+46.119999	
+47.310001	
+45.599998	
+45.869999	
+46.009998	
+45.900002	
+48.25	
+47	
+45.98	
+46.029999	
+45.810001	
+45.82	
+46.349998	
+50.240002	
+50.279999	
+50.439999	
+49	
+51.27	
+48.529999	
+52.43	
+41.360001	</value>
+  </data>
+</root>
